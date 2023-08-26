@@ -1,5 +1,5 @@
 # FoundaTotal
-FoundaTotal - Microservices Infrastructure Enabler
+FoundaTotal - Microservices Infrastructure In Rust
 
 
 > 起一个大而全的名字会害了你。
